@@ -10,7 +10,7 @@
 ### - we used pandas library to deal with dataset
 ### - we used numpy library to deal with python arrays
 ### - we used imblearn library to deal with imbalanced dataset
-## Comparison-Table
+## Comparison Table
 ![Comparison-Table](https://user-images.githubusercontent.com/50597119/199634188-8acbd7a6-6375-46f8-b6a7-4eec18a45350.png)
 ## Logistic Regression Classifier
 ![LR_Output](https://user-images.githubusercontent.com/50597119/199634495-f8678e5c-230c-44c9-9be0-fb86a9f77ba7.png)
